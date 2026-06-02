@@ -17,8 +17,6 @@ Usage: Use $capybara-illustrations ...
 - 想要**中性、轻量、偏解释型**的配图，比如流程、步骤、对比、开源文档说明，用 [stick-figure-illustrations](https://github.com/ZekerTop/stick-figure-illustrations)。
 - 想要**更有角色感、更松弛、更可爱一点**的观点图、状态图或社媒图，用 `capybara-illustrations`。
 
-仓库名使用 `capybara-illustrations`，保持简洁和可搜索；`vibe` 不放进仓库名，但已经写进默认风格规则里。
-
 ## 默认视觉语言
 
 用户调用时不需要重复写基础要求。只要给出观点、文章、场景或想表达的意思，skill 会自动套用这些默认值：

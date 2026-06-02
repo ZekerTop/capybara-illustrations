@@ -17,8 +17,6 @@ This is a character-based visual system. The default subject is a capybara: roun
 - Use [stick-figure-illustrations](https://github.com/ZekerTop/stick-figure-illustrations) when you want neutral, lightweight explanatory visuals for flows, steps, comparisons, tutorials, or open-source docs.
 - Use `capybara-illustrations` when you want a calmer, more characterful, slightly cuter visual for idea images, product states, social posts, or content that needs a relaxed emotional tone.
 
-The repository name stays simple and searchable: `capybara-illustrations`. The relaxed capybara vibe is part of the default visual rules.
-
 ## Defaults
 
 Users do not need to repeat the basic visual requirements. When they provide an idea, article, scene, or desired meaning, the skill applies these defaults:
