@@ -10,9 +10,12 @@ Skill ID: capybara-illustrations
 Usage: Use $capybara-illustrations ...
 ```
 
-This is not a recolored stick-figure skill. It is a separate character-based visual system. The default subject is a capybara: round, calm, slow-moving, emotionally stable, cute without becoming childish.
+This is a character-based visual system. The default subject is a capybara: round, calm, slow-moving, emotionally stable, cute without becoming childish.
 
-If you need neutral explanatory sketches, flow visuals, or anonymous character scenes, use the companion repository: [stick-figure-illustrations](https://github.com/ZekerTop/stick-figure-illustrations).
+## Choosing Between The Two Skills
+
+- Use [stick-figure-illustrations](https://github.com/ZekerTop/stick-figure-illustrations) when you want neutral, lightweight explanatory visuals for flows, steps, comparisons, tutorials, or open-source docs.
+- Use `capybara-illustrations` when you want a calmer, more characterful, slightly cuter visual for idea images, product states, social posts, or content that needs a relaxed emotional tone.
 
 The repository name stays simple and searchable: `capybara-illustrations`. The relaxed capybara vibe is part of the default visual rules.
 
@@ -131,11 +134,9 @@ Topic: How one person turns AI into a daily workflow
 | `slides` | Talks and decks | 3-8 | `16:9` | Support the point without stealing hierarchy |
 | `course` | Tutorials and courses | 4-10 | `16:9` / `4:3` | Learning actions and feedback loops |
 
-## Relationship
+## Related Tool
 
-`capybara-illustrations` and `stick-figure-illustrations` are separate skills:
+If you like this lightweight illustration workflow, choose by the tone your content needs:
 
-- [`stick-figure-illustrations`](https://github.com/ZekerTop/stick-figure-illustrations): neutral anonymous stick figures for lightweight explainers.
-- `capybara-illustrations`: capybara character scenes for relaxed, emotionally steady, more playful idea visuals.
-
-Keeping them separate avoids mixing two subjects and two visual personalities in one skill.
+- [`stick-figure-illustrations`](https://github.com/ZekerTop/stick-figure-illustrations): more neutral, best for explainers, flow visuals, tutorials, and open-source docs.
+- `capybara-illustrations`: more characterful, best for idea visuals, social posts, SaaS states, and content that benefits from a relaxed emotional tone.

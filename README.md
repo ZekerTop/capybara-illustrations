@@ -10,9 +10,12 @@ Skill ID: capybara-illustrations
 Usage: Use $capybara-illustrations ...
 ```
 
-它不是火柴人 skill 的换皮版本，而是一个独立的角色型视觉系统。默认主体是卡皮巴拉：圆润、慢悠悠、随遇而安、看起来很稳，有一点萌，但不幼稚。它适合表达“把混乱放慢一点”“事情没有那么糟”“先做下一步”“温和但可靠”这类创作者内容。
+这是一个角色型视觉系统。默认主体是卡皮巴拉：圆润、慢悠悠、随遇而安、看起来很稳，有一点萌，但不幼稚。它适合表达“把混乱放慢一点”“事情没有那么糟”“先做下一步”“温和但可靠”这类创作者内容。
 
-如果你需要的是更中性的解释图、流程图或匿名人物草图，可以使用另一个仓库：[stick-figure-illustrations](https://github.com/ZekerTop/stick-figure-illustrations)。
+## 和火柴人 skill 怎么选
+
+- 想要**中性、轻量、偏解释型**的配图，比如流程、步骤、对比、开源文档说明，用 [stick-figure-illustrations](https://github.com/ZekerTop/stick-figure-illustrations)。
+- 想要**更有角色感、更松弛、更可爱一点**的观点图、状态图或社媒图，用 `capybara-illustrations`。
 
 仓库名使用 `capybara-illustrations`，保持简洁和可搜索；`vibe` 不放进仓库名，但已经写进默认风格规则里。
 
@@ -231,11 +234,9 @@ capybara-illustrations/
         └── qa-checklist.md
 ```
 
-## 关系说明
+## 相关工具
 
-`capybara-illustrations` 和 `stick-figure-illustrations` 是两个独立 skill：
+如果你喜欢这类轻量插图工作流，也可以按内容气质选择：
 
-- [`stick-figure-illustrations`](https://github.com/ZekerTop/stick-figure-illustrations)：匿名火柴人，适合中性解释图和轻量流程图。
-- `capybara-illustrations`：卡皮巴拉（水豚）角色，适合松弛感、情绪稳定感和更有趣的观点表达。
-
-两个仓库分开维护，避免一个 skill 同时承担两套主体和气质。
+- [`stick-figure-illustrations`](https://github.com/ZekerTop/stick-figure-illustrations)：更中性，适合解释图、流程图、教程和开源文档。
+- `capybara-illustrations`：更有角色感，适合观点图、社媒图、SaaS 状态和需要一点松弛感的内容。
