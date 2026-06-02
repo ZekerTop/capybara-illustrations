@@ -12,6 +12,8 @@ Usage: Use $capybara-illustrations ...
 
 它不是火柴人 skill 的换皮版本，而是一个独立的角色型视觉系统。默认主体是卡皮巴拉：圆润、慢悠悠、随遇而安、看起来很稳，有一点萌，但不幼稚。它适合表达“把混乱放慢一点”“事情没有那么糟”“先做下一步”“温和但可靠”这类创作者内容。
 
+如果你需要的是更中性的解释图、流程图或匿名人物草图，可以使用另一个仓库：[stick-figure-illustrations](https://github.com/ZekerTop/stick-figure-illustrations)。
+
 仓库名使用 `capybara-illustrations`，保持简洁和可搜索；`vibe` 不放进仓库名，但已经写进默认风格规则里。
 
 ## 默认视觉语言
@@ -97,6 +99,8 @@ Use $capybara-illustrations 为这个观点生成一张图：
 
 用户不需要再写“16:9、白底黑线、卡皮巴拉主体、文字说明、颜色”等基础要求。
 
+![卡皮巴拉观点图：把混乱收起来](assets/readme-examples/01-good-tool-next-step.png)
+
 使用黑白线稿版：
 
 ```text
@@ -120,6 +124,8 @@ Use $capybara-illustrations 用 saas-state preset 生成空状态插图：
 
 状态：用户还没有创建任何项目。
 ```
+
+![卡皮巴拉 SaaS 空状态：还没有项目](assets/readme-examples/02-saas-empty-state.png)
 
 把主题设计成社媒轮播：
 
@@ -204,6 +210,8 @@ skill 会先从内容中挑出适合视觉化的部分，例如：
 capybara-illustrations/
 ├── README.md
 ├── README.en.md
+├── assets/
+│   └── readme-examples/
 ├── examples/
 │   ├── prompts.md
 │   └── prompts.en.md
@@ -223,7 +231,7 @@ capybara-illustrations/
 
 `capybara-illustrations` 和 `stick-figure-illustrations` 是两个独立 skill：
 
-- `stick-figure-illustrations`：匿名火柴人，适合中性解释图和轻量流程图。
+- [`stick-figure-illustrations`](https://github.com/ZekerTop/stick-figure-illustrations)：匿名火柴人，适合中性解释图和轻量流程图。
 - `capybara-illustrations`：卡皮巴拉（水豚）角色，适合松弛感、情绪稳定感和更有趣的观点表达。
 
 两个仓库分开维护，避免一个 skill 同时承担两套主体和气质。

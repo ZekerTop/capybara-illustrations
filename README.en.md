@@ -12,6 +12,8 @@ Usage: Use $capybara-illustrations ...
 
 This is not a recolored stick-figure skill. It is a separate character-based visual system. The default subject is a capybara: round, calm, slow-moving, emotionally stable, cute without becoming childish.
 
+If you need neutral explanatory sketches, flow visuals, or anonymous character scenes, use the companion repository: [stick-figure-illustrations](https://github.com/ZekerTop/stick-figure-illustrations).
+
 The repository name stays simple and searchable: `capybara-illustrations`. The relaxed capybara vibe is part of the default visual rules.
 
 ## Defaults
@@ -76,6 +78,8 @@ Use $capybara-illustrations to create an illustration for this idea:
 "Good tools put the mess away and place the next step in front of you."
 ```
 
+![Capybara idea visual: put the mess away](assets/readme-examples/01-good-tool-next-step.png)
+
 Use monochrome line art:
 
 ```text
@@ -99,6 +103,8 @@ Use $capybara-illustrations with the saas-state preset:
 
 State: The user has not created any projects yet.
 ```
+
+![Capybara SaaS empty state: no projects yet](assets/readme-examples/02-saas-empty-state.png)
 
 Plan a social carousel:
 
@@ -125,7 +131,7 @@ Topic: How one person turns AI into a daily workflow
 
 `capybara-illustrations` and `stick-figure-illustrations` are separate skills:
 
-- `stick-figure-illustrations`: neutral anonymous stick figures for lightweight explainers.
+- [`stick-figure-illustrations`](https://github.com/ZekerTop/stick-figure-illustrations): neutral anonymous stick figures for lightweight explainers.
 - `capybara-illustrations`: capybara character scenes for relaxed, emotionally steady, more playful idea visuals.
 
 Keeping them separate avoids mixing two subjects and two visual personalities in one skill.
