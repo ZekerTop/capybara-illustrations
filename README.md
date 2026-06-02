@@ -109,6 +109,8 @@ Use $capybara-illustrations 用 mono 模式为这个观点生成一张图：
 “不是所有事情都要立刻解决，有些事情先放进盒子里。”
 ```
 
+![卡皮巴拉黑白线稿：先放进盒子里](assets/readme-examples/03-mono-box-it.png)
+
 为文章规划插图，先不要生图：
 
 ```text
@@ -134,6 +136,8 @@ Use $capybara-illustrations 用 carousel preset 把这个主题设计成社媒�
 
 主题：一个人如何把 AI 变成日常工作流
 ```
+
+![卡皮巴拉社媒轮播规划：AI 日常工作流](assets/readme-examples/04-carousel-ai-workflow-plan.png)
 
 ## Presets
 

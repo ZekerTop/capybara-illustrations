@@ -88,6 +88,8 @@ Use $capybara-illustrations with mono mode for this idea:
 "Not everything needs to be solved immediately. Some things should first go into a box."
 ```
 
+![Capybara mono line art: put it in the box first](assets/readme-examples/03-mono-box-it.png)
+
 Plan article illustrations first:
 
 ```text
@@ -113,6 +115,8 @@ Use $capybara-illustrations with the carousel preset. Do not generate images yet
 
 Topic: How one person turns AI into a daily workflow
 ```
+
+![Capybara carousel plan: AI daily workflow](assets/readme-examples/04-carousel-ai-workflow-plan.png)
 
 ## Presets
 
