@@ -2,6 +2,8 @@
 
 中文 | [English](./README.en.md)
 
+![Capybara Illustrations：把观点讲得松弛一点](assets/readme-examples/00-hero-capybara-vibe.png)
+
 这是一个适合放在 Codex 里的创作辅助 skill：把观点、文章、社媒内容、开源项目说明、产品状态和教程内容，转成有**松弛感、情绪稳定感和一点幽默感**的卡皮巴拉（水豚）插图。
 
 ```text
