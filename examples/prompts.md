@@ -32,6 +32,16 @@ Use $capybara-illustrations 阅读下面文章，先不要生图。
 <粘贴文章>
 ```
 
+## 文章合理配图
+
+```text
+调用 Capybara Illustrations 来给下面这篇文章进行合理性生成插图，文章内容如下：
+
+<粘贴文章>
+```
+
+默认先输出带插入位置的 shot list，不直接生图。
+
 ## 文章配图并直接生成
 
 ```text

@@ -1,6 +1,6 @@
 interface:
   display_name: "Capybara Illustrations"
-  short_description: "Turn creator content into relaxed capybara illustration concepts and images"
-  default_prompt: "Use $capybara-illustrations to turn this idea or content into a relaxed capybara illustration, using the skill's default visual settings unless I specify otherwise."
+  short_description: "Turn creator content into relaxed, recognizable capybara illustration concepts and images"
+  default_prompt: "Use $capybara-illustrations to turn this idea or content into a relaxed capybara illustration. Keep the subject clearly recognizable as a capybara using the skill's identity-lock rules, unless I specify otherwise."
 policy:
   allow_implicit_invocation: true

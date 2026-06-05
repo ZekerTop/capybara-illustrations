@@ -10,7 +10,7 @@ Skill ID: capybara-illustrations
 Usage: Use $capybara-illustrations ...
 ```
 
-This is a character-based visual system. The default subject is a capybara: round, calm, slow-moving, emotionally stable, cute without becoming childish.
+This is a character-based visual system. The default subject is a capybara: a low horizontal rounded body, small back-set ears, small calm eyes, a longer blunt muzzle, a broad nose-mouth area, and tiny paws tucked close to the body. It should read as a capybara first, then feel relaxed, cute, and mildly humorous.
 
 ## Choosing Between The Two Skills
 
@@ -22,6 +22,7 @@ This is a character-based visual system. The default subject is a capybara: roun
 Users do not need to repeat the basic visual requirements. When they provide an idea, article, scene, or desired meaning, the skill applies these defaults:
 
 - Capybara subject, not a stick figure, hamster, bear, or fixed mascot
+- Capybara identity lock: low barrel-shaped body, body larger than head, small back-set ears, long broad blunt muzzle, tiny paws
 - `16:9` canvas by default unless the user specifies another format
 - White or transparent-white background
 - Black line art
@@ -34,6 +35,8 @@ Users do not need to repeat the basic visual requirements. When they provide an 
 - No imitation of specific creators, brands, IP, illustrators, or public examples
 
 Text is not minimized by default. The image should include enough short labels to make objects, states, and next actions understandable without turning into a slide full of copy.
+
+For article illustration requests, the default is a placement-first shot list. Even if the user says "generate illustrations for this article", the skill should first propose where each image belongs unless the user explicitly asks to generate immediately. After generation, each image still includes its insertion position and Markdown snippet.
 
 ## Good Fits
 

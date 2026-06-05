@@ -32,6 +32,16 @@ Use $capybara-illustrations to read the article below. Do not generate images ye
 <paste article>
 ```
 
+## Article Placement Planning
+
+```text
+Use $capybara-illustrations to reasonably plan illustrations for the article below:
+
+<paste article>
+```
+
+Default behavior: output a shot list with insertion positions before generating images.
+
 ## Article Illustration Placement And Generation
 
 ```text
